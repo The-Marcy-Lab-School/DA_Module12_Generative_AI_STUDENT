@@ -45,10 +45,10 @@ revised_prompt = ""  # TODO
 # %% [markdown]
 # ## 3. Retrieval step (RAG)
 #
-# Your knowledge base is `Module3_SQLRelational/student/data/SOURCE.md`
-# (the same file describing every domain's real schema/license/caveats
-# — already something you have). Chunk it, build a real retriever, and
-# test it against at least 5 real questions.
+# Your knowledge base is `../data/SOURCE.md` (in this repo) — the same
+# file describing every domain's real schema/license/caveats that
+# you've already used since Module 3. Chunk it, build a real retriever,
+# and test it against at least 5 real questions.
 
 # %%
 # TODO: load SOURCE.md, chunk it (decide your own chunking strategy —
@@ -69,9 +69,10 @@ chunks = []  # TODO
 # %% [markdown]
 # ## 4. Data task
 #
-# A real computation against your own domain's actual CSV data,
-# informed by what your retrieval step found (e.g., the retrieved
-# schema info tells you which column to query).
+# A real computation against your own domain's actual CSV data (see
+# `../data/<domain>/` in this repo), informed by what your retrieval
+# step found (e.g., the retrieved schema info tells you which column to
+# query).
 
 # %%
 # TODO: a real pandas computation against your own domain data

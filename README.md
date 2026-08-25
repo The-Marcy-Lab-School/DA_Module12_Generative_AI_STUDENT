@@ -14,10 +14,10 @@ repo's GitHub page (not "Fork") to create your own copy — see
 
 ## Knowledge base
 
-Your retrieval step uses
-`Module3_SQLRelational/student/data/SOURCE.md` — the same file
-describing every domain's real schema, license, and caveats that you've
-already used since Module 3.
+Your retrieval step uses `data/SOURCE.md` (in this repo) — the same
+file describing every domain's real schema, license, and caveats that
+you've already used since Module 3. `data/<domain>/` also has the real
+CSVs for your data task step.
 
 ## Setup
 
