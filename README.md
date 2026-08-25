@@ -1,0 +1,25 @@
+# Module 13: Generative AI, Prompt Engineering & Agentic AI Tooling
+
+A real agentic workflow — prompt engineering, retrieval, a data task,
+and a human-in-the-loop checkpoint — chained together programmatically.
+
+- **What/why**: see `PROJECT_OVERVIEW.md`.
+- **Setup, step by step**: see `GETTING_STARTED.md`.
+- **Pacing + full submission checklist**: see `CHECKLIST_TIMELINE.md`.
+- **Exactly what to build**: see `required_components.md`.
+
+## Knowledge base
+
+Your retrieval step uses
+`Module3_SQLRelational/student/data/SOURCE.md` — the same file
+describing every domain's real schema, license, and caveats that you've
+already used since Module 3.
+
+## Setup
+
+```
+pip install scikit-learn pandas google-genai
+```
+
+See `starter/llm_api_setup.md` for real, free API access (no credit
+card required).
