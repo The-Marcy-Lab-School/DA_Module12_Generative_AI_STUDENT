@@ -3,6 +3,10 @@
 A real agentic workflow — prompt engineering, retrieval, a data task,
 and a human-in-the-loop checkpoint — chained together programmatically.
 
+**Before you do anything else**: click **"Use this template"** on this
+repo's GitHub page (not "Fork") to create your own copy — see
+`GETTING_STARTED.md` step 1 for why this matters.
+
 - **What/why**: see `PROJECT_OVERVIEW.md`.
 - **Setup, step by step**: see `GETTING_STARTED.md`.
 - **Pacing + full submission checklist**: see `CHECKLIST_TIMELINE.md`.
