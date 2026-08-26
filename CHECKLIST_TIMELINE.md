@@ -83,6 +83,17 @@ iterated a few times."
 
 - [ ] Re-read all 9 sections against `required_components.md`; no
   placeholder `# TODO` text left.
+- [ ] **Delete `PROJECT_OVERVIEW.md`** — it explains the assignment, not
+  your project; a real portfolio repo shouldn't have "here's what you
+  were asked to build" sitting in it.
+- [ ] **Replace `README.md`'s content with your own real project README**
+  — write it for someone who's never seen this assignment:
+  - **Business Problem** — the real, self-defined question you answered.
+  - **Workflow Design** — your retrieval → data task → synthesis chain,
+    and your human-in-the-loop checkpoint.
+  - **AI Integration/Validation** — the two real AI errors you caught,
+    and your adaptability log.
+  - **Recommendations** — what you'd do with the workflow's real output.
 - [ ] Final commit, repo check.
 
 **Heads up**: after this project is due, there's a peer share-out
