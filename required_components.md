@@ -18,7 +18,10 @@ real, specific explanation of why the revision is better.
 
 ## 3. Retrieval (RAG)
 
-A real chunking strategy over `SOURCE.md`, justified against its actual
+A real chunking strategy over `data/SOURCE.md` (the real per-domain data
+documentation you've used since earlier modules — dataset sources,
+schemas, and real data quirks, one section per domain), justified
+against its actual
 structure. Tested against at least 5 real queries, with a real
 discussion of how many retrieved correctly and why any misses happened.
 

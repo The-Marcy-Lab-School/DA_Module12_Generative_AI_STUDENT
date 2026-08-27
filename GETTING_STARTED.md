@@ -22,9 +22,9 @@ do:
 pip install scikit-learn pandas google-genai
 ```
 
-`scikit-learn` here is for real TF-IDF retrieval (not modeling, like
-Module 12) — a real, lightweight way to do retrieval without needing a
-paid embedding API.
+`scikit-learn` here is for real TF-IDF (Term Frequency-Inverse Document
+Frequency) retrieval (not modeling, like Module 12) — a real, lightweight
+way to do retrieval without needing a paid embedding API.
 
 ## 4. Set up a free-tier LLM API
 

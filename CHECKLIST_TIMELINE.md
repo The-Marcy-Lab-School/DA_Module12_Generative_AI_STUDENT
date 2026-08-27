@@ -26,10 +26,13 @@ version would have gotten wrong.
 
 ## Days 3-4 — Retrieval (RAG)
 
-- [ ] Chunk `SOURCE.md`, justify your chunking strategy against its
-  actual structure.
-- [ ] Build a real TF-IDF retriever; test against 5 real queries
-  (section 3).
+- [ ] Chunk `data/SOURCE.md` (the real per-domain data-documentation
+  doc — dataset sources, schemas, and real data quirks), justify your
+  chunking strategy against its actual structure.
+- [ ] Build a real TF-IDF retriever (TF-IDF = Term Frequency-Inverse
+  Document Frequency — scores each word in a chunk by how often it
+  appears there vs. across all chunks, so common words score low and
+  distinctive ones score high); test against 5 real queries (section 3).
 
 **Exit criterion**: a real relevance discussion — how many of your 5
 queries retrieved correctly, and why any misses happened.
