@@ -3,6 +3,10 @@
 A real agentic workflow — prompt engineering, retrieval, a data task,
 and a human-in-the-loop checkpoint — chained together programmatically.
 
+**Due:** 9 days, plus a required share-out session scheduled after. See
+`CHECKLIST_TIMELINE.md` for the day-by-day pacing and the full
+submission checklist.
+
 **Before you do anything else**: click **"Use this template"** on this
 repo's GitHub page (not "Fork") to create your own copy — see
 `GETTING_STARTED.md` step 1 for why this matters.

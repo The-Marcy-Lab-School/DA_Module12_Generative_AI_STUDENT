@@ -52,6 +52,12 @@ chains AI calls together — the capstone assumes you already know how.
 - **Adaptability** — a real, documented pivot.
 - **Creativity** — a genuinely self-defined problem.
 
+## Timeline
+
+9 days, plus a required share-out session scheduled after. See
+`CHECKLIST_TIMELINE.md` for the day-by-day pacing and the full
+submission checklist.
+
 ## Deliverables at a glance
 
 One file, `starter/agentic_workflow.py`, run cell-by-cell in VS Code's

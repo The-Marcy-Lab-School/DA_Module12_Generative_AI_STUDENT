@@ -99,8 +99,16 @@ iterated a few times."
   - **Recommendations** — what you'd do with the workflow's real output.
 - [ ] Final commit, repo check.
 
-**Heads up**: after this project is due, there's a peer share-out
-session on your actual workflow — details in class.
+## Day 10 — Share-out
+
+Your instructor schedules this once every submission is in — usually a
+few days after Day 9, not necessarily the next calendar day. Real
+session, not optional: a 60-75 minute pairs/trios session where a
+partner adversarially stress-tests your section 6 human-in-the-loop
+checkpoint for a real way it could be fooled or bypassed, then you trade
+real section 8 adaptability stories and close with a group reflection.
+Bring your checkpoint code and adaptability log — see your instructor
+for the exact date.
 
 ---
 
