@@ -3,6 +3,8 @@
 See `instructor` materials distributed separately for full grading
 detail. This is a short, scannable bar — one line per requirement.
 
+## Part A — Agentic Workflow
+
 - [ ] A genuinely self-defined data problem, not a restatement of the
   module's own example.
 - [ ] A naive prompt and a revised (role/context/task/format) prompt,
@@ -21,3 +23,20 @@ detail. This is a short, scannable bar — one line per requirement.
   and the specific change made.
 - [ ] Clear documentation of what the workflow does autonomously vs.
   what requires human sign-off.
+
+## Part B — Responsible AI Evaluation
+
+- [ ] A real, computed Fairlearn group-disparity metric against the
+  given model's predictions.
+- [ ] A plausible, specific diagnosed root cause and a specific
+  (not generic) proposed fix.
+- [ ] A completed `human_ai_decision_recommendation.md`, with a
+  specific real threshold or "never" call, informed by your fairness
+  finding.
+- [ ] A real, specific `facilitation_outcome.md`, filled in after an
+  actual group discussion.
+- [ ] At least 2 real, specific OWASP-checklist exposure risks tied to
+  the given workflow's actual structure.
+- [ ] A policy memo naming a specific governance framework, a named
+  stakeholder who could be harmed, correct PII-tier handling guidance,
+  and a specific final recommendation.
