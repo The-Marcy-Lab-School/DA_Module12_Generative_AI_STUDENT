@@ -1,4 +1,4 @@
-# Module 13: Generative & Responsible AI — Prompt Engineering, Agentic Tooling & AI Governance
+# Module 12: Generative & Responsible AI — Prompt Engineering, Agentic Tooling & AI Governance
 
 A real agentic workflow — prompt engineering, retrieval, a data task,
 and a human-in-the-loop checkpoint, chained together programmatically —

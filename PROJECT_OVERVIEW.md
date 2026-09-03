@@ -48,13 +48,13 @@ this project tests together.
   (`starter/given_data/agentic_workflow_description.md`) — the same
   one every student evaluates for security exposure, structured the
   same way the workflow you build in Part A is.
-- Module 11's own real PII sensitivity-tier system — reused directly
+- Module 10's own real PII sensitivity-tier system — reused directly
   for the policy memo's data-handling guidance.
 
 ## What this unlocks
 
 `agentic-ai` and `data-governance` are both explicit prerequisites for
-the capstone (Module 15). This project is your first real practice
+the capstone (Module 13). This project is your first real practice
 building something that chains AI calls together, and your last
 rehearsal of governance reasoning before both are assumed knowledge
 going into your final program.
@@ -92,7 +92,7 @@ going into your final program.
   an actual decision.
 - **AI Literacy** — explaining a governance recommendation to a
   non-technical stakeholder.
-- **Data Governance & PII Classification** — reusing Module 11's real
+- **Data Governance & PII Classification** — reusing Module 10's real
   tier system for a new, AI-specific question.
 - **Problem Solving** — a specific, technically plausible fix for a
   detected disparity.

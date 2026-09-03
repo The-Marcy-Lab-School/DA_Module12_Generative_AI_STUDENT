@@ -134,7 +134,7 @@ not a generic AI-risk statement.
   - [ ] A specific, named governance framework (not "best practices").
   - [ ] A specific, named stakeholder who could be harmed — not vague
     "customers could be harmed" language.
-  - [ ] PII-tier handling guidance — which of Module 11's own
+  - [ ] PII-tier handling guidance — which of Module 10's own
     sensitivity tiers are safe vs. unsafe to expose to this AI system.
   - ⚠️ A memo with no named framework or concrete recommendation is a
     real, common mistake.

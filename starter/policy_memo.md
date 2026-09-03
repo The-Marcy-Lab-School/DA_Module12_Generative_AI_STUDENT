@@ -42,7 +42,7 @@ outcome from `facilitation_outcome.md`.
 
 ## 6. PII/sensitivity-tier handling
 
-TODO: using Module 11's real tier system (Public / Internal /
+TODO: using Module 10's real tier system (Public / Internal /
 Confidential / Restricted), which tiers of data in your chosen domain
 are safe to expose to the AI system being governed, and which aren't?
 Be specific about *why*, tied to your chosen framework from section 1.
