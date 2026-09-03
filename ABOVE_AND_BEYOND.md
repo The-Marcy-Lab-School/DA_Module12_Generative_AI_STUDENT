@@ -1,7 +1,7 @@
 # Above & Beyond: Stretch Scope
 
 Each item below is optional, and each one previews something the
-capstone (Module 15) will assume you already have a real feel for.
+capstone (Module 13) will assume you already have a real feel for.
 
 ## Part A — Agentic Workflow
 
@@ -19,7 +19,7 @@ file — this is that judgment call, made for real.
 Add a 3rd (or more) real step to your chain — e.g., a second data task,
 or a real validation step that checks the LLM's output against your
 data before the human-in-the-loop checkpoint even sees it. **Why this
-matters next**: `agentic-ai` is an explicit prerequisite for Module 15
+matters next**: `agentic-ai` is an explicit prerequisite for Module 13
 — longer, more realistic chains are exactly what that project assumes
 you can build.
 
