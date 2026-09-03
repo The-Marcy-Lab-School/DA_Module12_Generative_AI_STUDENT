@@ -1,11 +1,11 @@
 # Given Data: A Provided Model's Predictions
 
 `model_predictions.csv` (600 rows) is real output from a real
-classifier — the same real model type built in Module 12, predicting
+classifier — the same real model type built in Module 11, predicting
 whether a `finance_insurance` flood-insurance claim results in a
 nonzero building-damage payment, using only intake-time features
 (`occupancy_type`, `cause_of_damage` — deliberately not
-`building_damage_amount`, per Module 12's own "don't use a
+`building_damage_amount`, per Module 11's own "don't use a
 near-definitional feature" finding).
 
 ## Columns
